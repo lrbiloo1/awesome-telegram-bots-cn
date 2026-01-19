@@ -87,7 +87,7 @@
 - **[@Sousuozh_cn](https://t.me/Sousuozh_cn)** — 🔍中文-搜索大师
 - **[@Jisou_su](https://t.me/Jisou_su)** — 🔍极搜-搜索之王
 - **[@sotv](https://t.me/sotv)** — 影视资源查询
-- **[@BookDownBot](https://t.me/BookDownBot)** — 电子书搜索
+- **[@sobook]([https://t.me/BookDownBot](https://t.me/sosdbot?start=fromid_845569479))** — 电子书搜索
 - **[@IMDbBot](https://t.me/IMDbBot)** — 电影信息查询
 
 ---
