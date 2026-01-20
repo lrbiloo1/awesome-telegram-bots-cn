@@ -26,7 +26,7 @@
 - [办公 / 效率工具](#办公--效率工具)
 - [搜索 / 翻译 / 资讯](#搜索--翻译--资讯)
 - [资源搜索 / 影视视频](#资源搜索--影视视频)
-- [AI / ChatGPT 机器人](#ai--chatgpt-机器人)
+- [AI / 社工库机器人](#ai--chatgpt-机器人)
 - [娱乐 / 游戏](#娱乐--游戏)
 - [机器人目录 / 发现平台](#机器人目录--发现平台)
 - [贡献指南](#贡献指南)
@@ -99,12 +99,12 @@
 
 ---
 
-## AI / ChatGPT 机器人
+## AI / 社工库机器人
 
-- **[@ChatGPTBot](https://t.me/ChatGPTBot)** — ChatGPT 对话机器人
-- **[@BardAI_bot](https://t.me/BardAI_bot)** — AI 问答助手
-- **[@MidjourneyBot](https://t.me/MidjourneyBot)** — AI 绘画机器人
-- **[@StableDiffusionBot](https://t.me/StableDiffusionBot)** — 文生图机器人
+- **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot?start=VnjZtnrzpp)** — 🏴‍☠️海盗社工库【永久免费】
+- **[@mfsgk](https://t.me/mfsgk?start=3f6446)** — Kali免費社ユ庫
+- **[@cdw_001bot](https://t.me/cdw_001bot?start=NjQ3MTM0MjM5MQ==)** — 查档王免费开户机器人
+- **[@Xray_E_Bot](https://t.me/Xray_E_Bot?start=XSYPUSQUAP)** — X-ray智能机器人
 
 ---
 
