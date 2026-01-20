@@ -26,7 +26,7 @@
 - [办公 / 效率工具](#办公--效率工具)
 - [搜索 / 翻译 / 资讯](#搜索--翻译--资讯)
 - [资源搜索 / 影视视频](#资源搜索--影视视频)
-- [免费 / 社工库机器人](#免费/社工库机器人)
+- [免费 / 社工库机器人](#免费--社工库机器人)
 - [娱乐 / 游戏](#娱乐--游戏)
 - [机器人目录 / 发现平台](#机器人目录--发现平台)
 - [贡献指南](#贡献指南)
@@ -101,7 +101,7 @@
 
 ## 免费 / 社工库机器人
 
-- **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot?start=VnjZtnrzpp)** — 🏴‍☠️海盗社工库【永久免费】
+- **[@HaiDaoSgkBot](https://t.me/HaiDaoSgkBot?start=VnjZtnrzpp)** — 🏴‍☠️海盗社工库
 - **[@mfsgk](https://t.me/mfsgk?start=3f6446)** — Kali免費社ユ庫
 - **[@cdw_001bot](https://t.me/cdw_001bot?start=NjQ3MTM0MjM5MQ==)** — 查档王免费开户机器人
 - **[@Xray_E_Bot](https://t.me/Xray_E_Bot?start=XSYPUSQUAP)** — X-ray智能机器人
