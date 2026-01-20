@@ -73,7 +73,7 @@
 - **[@Jisou_su](https://t.me/Jisou_su)** — 🔍极搜-搜索之王
 - **[@sotv](https://t.me/sotv)** — 影视资源查询
 - **[@sobook](https://t.me/sosdbot?start=fromid_845569479)** — 电子书搜索
-- **[@IMDbBot](https://t.me/IMDbBot)** — 电影信息查询
+- **[@movie_scraper_bot](https://t.me/movie_scraper_bot)** — 电影信息查询
 
 ---
 
