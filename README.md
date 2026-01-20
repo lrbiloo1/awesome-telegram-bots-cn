@@ -92,7 +92,7 @@
 - **[@GetMediaBot](https://t.me/GetMediaBot)** — 通用媒体下载工具
 - **[@utubest_Bot](https://t.me/utubest_Bot)** — YouTube 视频下载
 - **[@Vkmusic_bot](https://t.me/Vkmusic_bot)** — 音乐搜索与下载
-- **[@Filetobot](https://t.me/Filetobot)** — 文件保存到 Telegram
+- **[@fileandbot](https://t.me/fileandbot)** — 文件保存到 Telegram
 
 ---
 
