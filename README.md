@@ -48,6 +48,8 @@
 - **[@wallet](https://t.me/wallet)** — Telegram 内置钱包
 - **[@VerifyBot](https://t.me/VerifyBot)** — 频道/群组/机器人认证
 - **[@username_bot](https://t.me/username_bot)** — 获取被占用用户名建议
+- **[@LivegramBot](https://t.me/LivegramBot)** — 构建 Telegram 反馈机器人工具
+- **[@userinfobot](https://t.me/userinfobot)** — 显示用户的基本信息
 
 
 
