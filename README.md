@@ -37,7 +37,7 @@
 ## 官方 & 开发工具
 
 - **[@BotFather](https://t.me/BotFather)** — 官方机器人创建与管理工具
-- **[@TestMyBot](https://t.me/TestMyBot)** — 机器人调试与测试
+- **[@SpamBot](https://t.me/SpamBot)** — 查询自己账号是否被限制以及封禁原因
 - **[@BotListBot](https://t.me/BotListBot)** — 提交机器人到公开目录
 
 ---
