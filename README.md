@@ -62,6 +62,7 @@
 - **[@MissRose_bot](https://t.me/MissRose_bot)** — 功能强大的群管理机器人
 - **[@GroupHelpBot](https://t.me/GroupHelpBot)** — 自动欢迎与帮助信息
 - **[@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)** — reCAPTCHA 验证机器人
+- **[@RemoveJoinGroupMsgBot](https://t.me/RemoveJoinGroupMsgBot)** — 自动删除群组中的加入/离开消息
 
 ---
 
@@ -83,6 +84,9 @@
 - **[@mfsgk](https://t.me/mfsgk?start=3f6446)** — Kali免費社ユ庫
 - **[@cdw_001bot](https://t.me/cdw_001bot?start=NjQ3MTM0MjM5MQ==)** — 查档王免费开户机器人
 - **[@Xray_E_Bot](https://t.me/Xray_E_Bot?start=XSYPUSQUAP)** — X-ray智能机器人
+- **[@GnoranceX_bot](https://t.me/GnoranceX_bot?start=2z0vbqv)** — GnoranceX社工库机器人
+- **[@XiaoBaoSGKbot](https://t.me/XiaoBaoSGKbot?start=POqyogJIzg)** — 小宝社工库
+- **[@aisgk11111bot](https://t.me/aisgk11111bot?start=NjQ3MTM0MjM5MQ==)** — 免费开户机器人（天启-永不落幕）
   
 ---
 
