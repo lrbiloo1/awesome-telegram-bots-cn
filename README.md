@@ -12,6 +12,10 @@
 
 ## 📌 项目说明
 
+## 📦 子项目
+
+- [Telegram AI 机器人精选](https://github.com/lrbiloo1/awesome-telegram-bots-ai)
+
 **Awesome Telegram Bots（中文精选）** 是一个面向中文用户的 Telegram 机器人精选列表。
 
 本项目遵循 Awesome List 规范，专注于 **高质量、实用性强、可公开访问** 的 Telegram 机器人，而不是简单罗列所有机器人。
