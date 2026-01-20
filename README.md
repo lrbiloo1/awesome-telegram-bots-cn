@@ -65,7 +65,7 @@
 ## 办公 / 效率工具
 
 - **[@SkeddyBot](https://t.me/SkeddyBot)** — 智能提醒机器人
-- **[@FeedReaderBot](https://t.me/FeedReaderBot)** — RSS 订阅工具
+- **[@RustRssBot](https://t.me/RustRssBot)** — RSS 订阅工具
 - **[@FileConverterBot](https://t.me/FileConverterBot)** — 文件格式转换
 - **[@GmailBot](https://t.me/GmailBot)** — Gmail 邮件通知
 
